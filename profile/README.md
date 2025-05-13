@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/8bd0db3e-8237-4350-931a-8a0800cbd533)
+
+
 [InceptionLRT](https://inceptionlrt.com/) **is a modular layer of curated solutions that bridge shared security with restaking rewards.**
 
 ---
